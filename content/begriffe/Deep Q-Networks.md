@@ -1,5 +1,5 @@
 ---
-title: Deep Q-Netze (Deep Q-Networks, DQN)
+title: "Deep Q-Networks"
 tags:
   - deep-learning
   - machine-learning
@@ -9,7 +9,7 @@ aliases:
   - Deep-Q-Networks
 ---
 
-# Deep Q-Networks, DQN
+# Deep Q-Networks
 
 Ein hybrider KI-Ansatz, der tiefes Lernen mit bestärkendem Lernen verbindet: Statt Nutzenwerte in starren Tabellen nachzuschlagen, nutzt ein Deep Q-Network mehrschichtige neuronale Netze, um optimale Handlungsentscheidungen in komplexen, hochdimensionalen Umgebungen (wie Videospielen oder Robotik) zu implementieren.
 

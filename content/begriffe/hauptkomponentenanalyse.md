@@ -1,5 +1,5 @@
 ---
-title: "Hauptkomponentenanalyse (Principal Component Analysis, PCA)"
+title: "Hauptkomponentenanalyse (PCA)"
 tags: [machine-learning, algorithm, data-science]
 aliases:
   - "principal-component-analysis"
@@ -7,7 +7,7 @@ aliases:
   - "PCA"
 ---
 
-# Hauptkomponentenanalyse (Principal Component Analysis, PCA)
+# Hauptkomponentenanalyse (PCA)
 
 Ein weit verbreitetes unüberwachtes Verfahren der [[Merkmalsauswahl & Merkmalsextraktion|Feature Extraction]], das einen hochdimensionalen Datenraum so transformiert, dass die maximale Streuung (Varianz) und Information in wenigen neuen, zueinander senkrechten Achsen – den sogenannten **Hauptkomponenten** – gebündelt wird.
 

@@ -8,7 +8,7 @@ aliases:
   - "KI-Verordnung"
 ---
 
-# EU AI Act
+# EU-KI-Verordnung (EU AI Act)
 
 Das weltweit erste umfassende Gesetzespaket der Europäischen Union zur Regulierung von künstlicher Intelligenz anhand von vier Risikoklassen, in Kraft getreten am 1. August 2024.
 

@@ -1,5 +1,5 @@
 ---
-title: "Modellparameter & Gewichte (Model Parameters)"
+title: "Modellparameter & Gewichte"
 tags: [deep-learning]
 aliases:
   - "model-parameters"
@@ -7,7 +7,7 @@ aliases:
   - "Modellparameter"
 ---
 
-# Modellparameter & Gewichte (Model Parameters)
+# Modellparameter & Gewichte
 
 Die internen mathematischen Stellschrauben eines Modells, primär Verbindungsgewichte (**Weights**) und Grundverschiebungen (**Biases**), die während des Trainingsprozesses optimiert werden und das gesamte erlernte Fakten-, Sprach- und Strukturwissen eines neuronalen Netzes speichern.
 

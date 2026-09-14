@@ -1,5 +1,5 @@
 ---
-title: "Heuristische Baumsuche & Deep Blue (Heuristic Tree Search)"
+title: "Heuristische Baumsuche"
 tags: [symbolic-ai, ai-history, computer-science]
 aliases:
   - "heuristic-tree-search"
@@ -7,7 +7,7 @@ aliases:
   - "Baumsuche"
 ---
 
-# Heuristische Baumsuche & Deep Blue (Heuristic Tree Search)
+# Heuristische Baumsuche
 
 Ein deterministisches Suchverfahren, das mögliche zukünftige Züge oder Entscheidungsfolgen als Verästelungen eines Suchbaums simuliert und Stellungen mithilfe mathematischer Faustregeln (Heuristiken) bewertet, um den besten Pfad auszuwählen.
 

@@ -1,5 +1,5 @@
 ---
-title: "Natürliche Sprachgenerierung (Natural Language Generation, NLG)"
+title: "Natural Language Generation (NLG)"
 tags: [nlp, generative-ai, ki-basics]
 aliases:
   - "natural-language-generation"
@@ -7,7 +7,7 @@ aliases:
   - "NLG"
 ---
 
-# Natürliche Sprachgenerierung (Natural Language Generation, NLG)
+# Natural Language Generation (NLG)
 
 Eine spezialisierte Teildisziplin von [[natuerliche-sprachverarbeitung|NLP]], die strukturierte Daten, numerische Fakten oder logische Gedanken in flüssigen, grammatikalisch korrekten und stilistisch passenden menschlichen Text übersetzt.
 

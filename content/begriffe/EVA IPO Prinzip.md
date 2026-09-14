@@ -1,5 +1,5 @@
 ---
-title: "EVA-Prinzip (Eingabe, Verarbeitung, Ausgabe / IPO-Modell)"
+title: "EVA-Prinzip"
 tags: [computer-science, hardware, ki-basics]
 aliases:
   - "EVA-Prinzip"
@@ -7,7 +7,7 @@ aliases:
   - "IPO-Modell"
 ---
 
-# EVA-Prinzip (Eingabe, Verarbeitung, Ausgabe / IPO-Modell)
+# EVA-Prinzip
 
 Das universelle Grundmuster jedes Computers und Informationsverarbeitungssystems: Daten werden über Eingabegeräte aufgenommen, durch Prozessoren nach festgelegten Regeln verarbeitet und zwischengespeichert, und schließlich über Ausgabegeräte an die Umwelt übergeben.
 

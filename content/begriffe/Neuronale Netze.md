@@ -1,5 +1,5 @@
 ---
-title: "Künstliche Neuronale Netze (Artificial Neural Networks, KNN)"
+title: "Künstliche Neuronale Netze"
 tags: [deep-learning]
 aliases:
   - "neuronale-netze"
@@ -10,7 +10,7 @@ aliases:
   - "ANN"
 ---
 
-# Künstliche Neuronale Netze (Artificial Neural Networks, KNN)
+# Künstliche Neuronale Netze
 
 Vom biologischen Nervensystem grob inspirierte mathematische Rechennetzwerke aus virtuellen Knoten (künstlichen Neuronen), die Signale über gewichtete Verbindungen und Aktivierungsfunktionen schrittweise verarbeiten. Sie bilden das funktionale Herzstück des [[Deep Learning|Deep Learning]].
 

@@ -1,5 +1,5 @@
 ---
-title: "Rekurrente Neuronale Netze (Recurrent Neural Networks, RNN)"
+title: "Recurrent Neural Networks (RNN)"
 tags: [deep-learning, nlp]
 aliases:
   - "recurrent-neural-networks"
@@ -7,7 +7,7 @@ aliases:
   - "RNN"
 ---
 
-# Rekurrente Neuronale Netze (Recurrent Neural Networks, RNN)
+# Recurrent Neural Networks (RNN)
 
 Eine Familie neuronaler Netze mit internem Gedächtnis und Rückkopplungsschleifen, die Daten schrittweise verarbeitet und Ausgaben an sich selbst oder frühere Neuronen zurückführt, um zeitliche Abhängigkeiten und sequenziellen Kontext zu erfassen.
 

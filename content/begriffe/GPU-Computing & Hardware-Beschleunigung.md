@@ -1,5 +1,5 @@
 ---
-title: "GPU-Computing & Hardware-Beschleunigung (GPU Compute)"
+title: "GPU-Computing & Hardware-Beschleunigung"
 tags: [deep-learning, hardware]
 aliases:
   - "gpu-compute"
@@ -7,7 +7,7 @@ aliases:
   - "GPU-Computing"
 ---
 
-# GPU-Computing & Hardware-Beschleunigung (GPU Compute)
+# GPU-Computing & Hardware-Beschleunigung
 
 Der Einsatz von Grafikprozessoren (GPUs) anstelle klassischer Hauptprozessoren (CPUs) für mathematische Berechnungen, insbesondere für massiv parallele Matrix- und Vektormultiplikationen im KI-Training.
 

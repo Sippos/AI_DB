@@ -1,5 +1,5 @@
 ---
-title: "Stimmungsanalyse (Sentiment Analysis)"
+title: "Stimmungsanalyse"
 tags: [nlp, machine-learning, ki-basics]
 aliases:
   - "sentiment-analysis"
@@ -7,7 +7,7 @@ aliases:
   - "Sentimentanalyse"
 ---
 
-# Stimmungsanalyse (Sentiment Analysis)
+# Stimmungsanalyse
 
 Ein praktisches Anwendungsverfahren aus dem Bereich [[natuerliches-sprachverstaendnis|Natural Language Understanding (NLU)]], das Texte automatisiert untersucht, um die emotionale Grundhaltung, Stimmung oder subjektive Meinung des Verfassers (z. B. positiv, neutral oder negativ) zu identifizieren.
 

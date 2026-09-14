@@ -1,5 +1,5 @@
 ---
-title: Black-Box-Problem in der KI
+title: "Black-Box-Problem"
 tags:
   - deep-learning
   - ai-safety
@@ -9,7 +9,7 @@ aliases:
   - Black-Box
 ---
 
-# Black Box Problem
+# Black-Box-Problem
 
 Das Phänomen, dass hochkomplexe KI-Modelle, insbesondere vielschichtige [[Deep Learning|tiefe neuronale Netze]], zwar hochpräzise Ergebnisse liefern, der genaue mathematische Weg zu einer konkreten Entscheidung für Menschen jedoch undurchsichtig, nicht intuitiv nachvollziehbar und kaum reproduzierbar ist.
 

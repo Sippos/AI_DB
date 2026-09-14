@@ -1,5 +1,5 @@
 ---
-title: "Suchalgorithmen & Problemraum-Optimierung (Search Algorithms)"
+title: "Suchalgorithmen"
 tags: [symbolic-ai, computer-science]
 aliases:
   - "search-algorithms"
@@ -7,7 +7,7 @@ aliases:
   - "Suchalgorithmen"
 ---
 
-# Suchalgorithmen & Problemraum-Optimierung (Search Algorithms)
+# Suchalgorithmen
 
 Deterministische Problemlösungsverfahren der klassischen Informatik und KI, die systematisch einen definierten Raum an Handlungsoptionen durchforsten und anhand vordefinierter Bewertungsregeln die optimale Lösung ermitteln – ohne dabei aus Erfahrung zu lernen.
 

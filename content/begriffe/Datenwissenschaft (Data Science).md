@@ -1,5 +1,5 @@
 ---
-title: "Datenwissenschaft (Data Science)"
+title: "Datenwissenschaft"
 tags: [data-science, ki-basics]
 aliases:
   - "data-science"
@@ -7,7 +7,7 @@ aliases:
   - "Datenwissenschaft"
 ---
 
-# Datenwissenschaft (Data Science)
+# Datenwissenschaft
 
 Eine interdisziplinäre Wissenschaft, die wissenschaftliche Methoden, Mathematik, Statistik, Informatik und fachspezifisches Domänenwissen vereint, um aus strukturierten und unstrukturierten Rohdaten verwertbare Erkenntnisse, Handlungsempfehlungen und Vorhersagemodelle abzuleiten.
 

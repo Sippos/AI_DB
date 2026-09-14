@@ -1,5 +1,5 @@
 ---
-title: "Unüberwachtes Lernen (Unsupervised Learning)"
+title: "Unüberwachtes Lernen"
 tags: [machine-learning, ki-basics]
 aliases:
   - "unsupervised-learning"
@@ -7,7 +7,7 @@ aliases:
   - "Unüberwachtes Lernen"
 ---
 
-# Unüberwachtes Lernen (Unsupervised Learning)
+# Unüberwachtes Lernen
 
 Eine fundamentale Trainingsform des [[Maschinelles Lernen|maschinellen Lernens]], bei der einem Algorithmus ungelabelte Rohdaten ohne bekannte Zielwerte oder Musterlösungen übergeben werden. Das System muss völlig selbstständig verborgene Strukturen, Ähnlichkeiten, Gesetzmäßigkeiten oder Anomalien im Datenbestand erkennen.
 

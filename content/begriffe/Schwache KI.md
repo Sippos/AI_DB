@@ -1,5 +1,5 @@
 ---
-title: "Schwache KI (Narrow AI / Weak AI)"
+title: "Schwache KI"
 tags: [ki-basics]
 aliases:
   - "weak-ai"
@@ -8,7 +8,7 @@ aliases:
   - "Schwache KI"
 ---
 
-# Schwache KI (Narrow AI / Weak AI)
+# Schwache KI
 
 Alle heute tatsächlich existierenden KI-Systeme, die darauf trainiert oder programmiert sind, genau ein spezifisches Problem oder eine eng umgrenzte Aufgabe exzellent zu lösen. Sie besitzen kein echtes Bewusstsein, kein Weltverständnis und keine Fähigkeiten außerhalb ihres Spezialgebiets.
 

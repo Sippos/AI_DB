@@ -1,5 +1,5 @@
 ---
-title: "Selbstaufmerksamkeits-Mechanismus (Self-Attention Mechanism)"
+title: "Selbstaufmerksamkeits-Mechanismus"
 tags: [deep-learning, nlp]
 aliases:
   - "self-attention"
@@ -7,7 +7,7 @@ aliases:
   - "Self-Attention Mechanism"
 ---
 
-# Selbstaufmerksamkeits-Mechanismus (Self-Attention Mechanism)
+# Selbstaufmerksamkeits-Mechanismus
 
 Die mathematische Schlüsselkomponente der Transformer-Architektur: Sie berechnet für jedes Token in einer Eingabesequenz dynamische Aufmerksamkeitsscores zu allen anderen Tokens, um Kontext und Bedeutungsbezüge flexibel zu gewichten.
 

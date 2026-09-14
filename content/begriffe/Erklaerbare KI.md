@@ -1,5 +1,5 @@
 ---
-title: "Erklärbare KI (Explainable AI, XAI)"
+title: "Erklärbare KI"
 tags: [ai-safety, deep-learning, ki-basics]
 aliases:
   - "explainable-ai"
@@ -8,7 +8,7 @@ aliases:
   - "Erklärbare KI"
 ---
 
-# Erklärbare KI (Explainable AI, XAI)
+# Erklärbare KI
 
 Ein modernes Teilgebiet der KI-Forschung, das Methoden und Werkzeuge entwickelt, um die Funktionsweise, internen Entscheidungskriterien und Ausgaben komplexer Algorithmen für menschliche Experten verständlich, transparent und überprüfbar zu machen.
 

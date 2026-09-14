@@ -1,5 +1,5 @@
 ---
-title: "Expertensysteme (Expert Systems)"
+title: "Expertensysteme"
 tags: [symbolic-ai, ai-history, computer-science]
 aliases:
   - "expertensysteme"
@@ -8,7 +8,7 @@ aliases:
   - "Expertensystem"
 ---
 
-# Expertensysteme (Expert Systems)
+# Expertensysteme
 
 Wissensbasierte, nicht-lernende KI-Systeme, die das Spezialwissen menschlicher Experten in einer strukturierten Wissensbasis hinterlegen und mithilfe einer logischen Inferenzmaschine fundierte Diagnosen oder Handlungsempfehlungen ableiten.
 

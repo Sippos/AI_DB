@@ -1,5 +1,5 @@
 ---
-title: "Transformer-Architektur (Transformer Architecture)"
+title: "Transformer-Architektur"
 tags: [deep-learning, nlp]
 aliases:
   - "transformer-architecture"
@@ -7,7 +7,7 @@ aliases:
   - "Transformer"
 ---
 
-# Transformer-Architektur (Transformer Architecture)
+# Transformer-Architektur
 
 Eine 2017 von Google-Forschern im Paper „Attention is All You Need“ vorgestellte neuronale Netzwerkarchitektur, die Sequenzen parallel verarbeitet und das universelle Rückgrat aller modernen Large Language Models bildet.
 

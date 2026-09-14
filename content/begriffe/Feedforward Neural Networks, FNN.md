@@ -1,5 +1,5 @@
 ---
-title: Feedforward Neural Networks, FNN
+title: "Feedforward Neural Networks (FNN)"
 tags:
   - deep-learning
 aliases:
@@ -9,7 +9,7 @@ aliases:
   - Vorwaertsgerichtete Neuronale Netze
 ---
 
-#  Feedforward Neural Networks, FNN
+# Feedforward Neural Networks (FNN)
 
 Die elementarste Grundform künstlicher neuronaler Netze, bei der der Informationsfluss strikt geradlinig und unidirektional von der Eingabeschicht über die Zwischenschichten zur Ausgabeschicht verläuft, ohne Rückkopplungsschleifen oder Zyklen.
 

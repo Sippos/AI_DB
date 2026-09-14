@@ -1,5 +1,5 @@
 ---
-title: "Maschinelles Lernen (Machine Learning, ML)"
+title: "Maschinelles Lernen"
 tags: [machine-learning, ki-basics]
 aliases:
   - "maschinelles-lernen"
@@ -8,7 +8,7 @@ aliases:
   - "ML"
 ---
 
-# Maschinelles Lernen (Machine Learning, ML)
+# Maschinelles Lernen
 
 Ein Teilgebiet der Künstlichen Intelligenz, bei dem Computerprogramme nicht mehr mit starren, handgeschriebenen Regeln programmiert werden, sondern selbstständig aus Daten und Beispielen statistische Muster und Gesetzmäßigkeiten erlernen, um ein Modell zu trainieren, das Vorhersagen oder Entscheidungen auf neuen, ungesehenen Daten treffen kann.
 

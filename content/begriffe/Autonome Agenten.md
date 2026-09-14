@@ -1,5 +1,5 @@
 ---
-title: Autonome Agenten
+title: "Autonome Agenten"
 tags:
   - ki-basics
   - ai-workflow

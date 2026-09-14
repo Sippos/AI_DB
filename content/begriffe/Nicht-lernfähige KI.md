@@ -1,5 +1,5 @@
 ---
-title: "Nicht-lernfähige KI & Statische Systeme (Non-Learning AI)"
+title: "Nicht-lernfähige KI"
 tags: [ki-basics, symbolic-ai, computer-science]
 aliases:
   - "non-learning-ai"
@@ -7,7 +7,7 @@ aliases:
   - "Statische Systeme"
 ---
 
-# Nicht-lernfähige KI & Statische Systeme (Non-Learning AI)
+# Nicht-lernfähige KI
 
 KI-Systeme, die menschliches, intelligentes Verhalten (wie Konversation, Diagnostik oder strategische Entscheidungen) durch fest einprogrammierte Regeln, Fachwissen oder Suchverfahren imitieren, ohne eigene Lern- oder Anpassungsprozesse aus Daten zu durchlaufen.
 

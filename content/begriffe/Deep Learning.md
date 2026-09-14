@@ -1,5 +1,5 @@
 ---
-title: "Tiefes Lernen (Deep Learning)"
+title: "Deep Learning"
 tags: [deep-learning]
 aliases:
   - "tiefes-lernen"

@@ -1,5 +1,5 @@
 ---
-title: "Zufallswald (Random Forest)"
+title: "Random Forest"
 tags: [machine-learning, ki-basics]
 aliases:
   - "random-forest"

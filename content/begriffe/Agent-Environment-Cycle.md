@@ -1,5 +1,5 @@
 ---
-title: Agent-Environment-Cycle
+title: "Agent-Environment-Cycle"
 tags:
   - machine-learning
   - autonomous-agents

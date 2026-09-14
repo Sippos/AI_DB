@@ -1,12 +1,12 @@
 ---
-title: "Fluch der Dimensionalität (Curse of Dimensionality)"
+title: "Fluch der Dimensionalität"
 tags: [machine-learning, data-science]
 aliases:
   - "curse-of-dimensionality"
   - "Curse of Dimensionality"
 ---
 
-# Fluch der Dimensionalität (Curse of Dimensionality)
+# Fluch der Dimensionalität
 
 Eine fundamentale Herausforderung im [[maschinelles-lernen|maschinellen Lernen]]: Mit jedem zusätzlichen Merkmal (Dimension) wächst das Datenvolumen des Raumes exponentiell an. Datenpunkte werden isoliert, Abstände verlieren an Aussagekraft und Modelle benötigen dramatisch mehr Daten und Rechenleistung.
 

@@ -1,5 +1,5 @@
 ---
-title: AlexNet
+title: "AlexNet"
 tags:
   - deep-learning
   - ai-history

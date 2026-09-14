@@ -1,5 +1,5 @@
 ---
-title: "Existenzrisiko durch KI (Extinction Risk / Catastrophic Risk)"
+title: "Existenzrisiko durch KI"
 tags: [ai-safety]
 aliases:
   - "extinction-risk"
@@ -7,7 +7,7 @@ aliases:
   - "Catastrophic Risk"
 ---
 
-# Existenzrisiko durch KI (Extinction Risk / Catastrophic Risk)
+# Existenzrisiko durch KI
 
 Die von führenden KI-Forschern aufgeworfene Warnung, dass der unkontrollierte Bau fortgeschrittener, autonom handelnder künstlicher Superintelligenz katastrophale globale Folgen bis hin zur Auslöschung der Menschheit haben könnte.
 

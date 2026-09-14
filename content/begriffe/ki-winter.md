@@ -1,5 +1,5 @@
 ---
-title: "KI-Winter (AI Winter)"
+title: "KI-Winter"
 tags: [ai-history]
 aliases:
   - "ai-winter"
@@ -7,7 +7,7 @@ aliases:
   - "AI-Winter"
 ---
 
-# KI-Winter (AI Winter)
+# KI-Winter
 
 Historische Perioden ernüchternder Flaute, in denen überzogene Versprechungen und Hype-Zyklen platzten, was zum massiven Einbruch staatlicher Fördergelder, privater Investitionen und öffentlichem Interesse an KI führte.
 

@@ -1,5 +1,5 @@
 ---
-title: "Merkmalsauswahl & Merkmalsextraktion (Feature Selection & Extraction)"
+title: "Merkmalsauswahl & Merkmalsextraktion"
 tags: [machine-learning, data-science]
 aliases:
   - "merkmalsauswahl-und-extraktion"
@@ -8,7 +8,7 @@ aliases:
   - "Feature Extraction"
 ---
 
-# Merkmalsauswahl & Merkmalsextraktion (Feature Selection & Extraction)
+# Merkmalsauswahl & Merkmalsextraktion
 
 Die zwei zentralen methodischen Strategien der [[Dimensionsreduktion|Dimensionsreduktion]]: **Feature Selection** filtert aus vorhandenen Merkmalen gezielt die wichtigsten heraus und verwirft den Rest, während **Feature Extraction** mehrere ursprüngliche Merkmale mathematisch zu neuen, kompakteren Variablen verschmilzt.
 

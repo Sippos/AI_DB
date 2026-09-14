@@ -1,5 +1,5 @@
 ---
-title: "Eliza-Effekt (Eliza Effect & Anthropomorphism)"
+title: "Eliza-Effekt"
 tags: [ki-basics, ai-safety]
 aliases:
   - "eliza-effect"
@@ -7,7 +7,7 @@ aliases:
   - "Eliza-Effekt"
 ---
 
-# Eliza Effekt (Eliza Effect & Anthropomorphism)
+# Eliza-Effekt
 
 Die menschliche psychologische Neigung, Computerprogrammen, Robotern und Sprachmodellen menschliche Eigenschaften wie Verstand, Gefühle, Empathie und Absichten zuzuschreiben, selbst wenn man weiß, dass das System nur formale Regeln ausführt.
 

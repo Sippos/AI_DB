@@ -1,5 +1,5 @@
 ---
-title: "Bestärkendes Lernen (Reinforcement Learning, RL)"
+title: "Bestärkendes Lernen"
 tags: [machine-learning]
 aliases:
   - "reinforcement-learning"
@@ -7,7 +7,7 @@ aliases:
   - "RL"
 ---
 
-# Bestärkendes Lernen (Reinforcement Learning, RL)
+# Bestärkendes Lernen
 
 Ein interaktiver Lerntyp des [[Maschinelles Lernen|maschinellen Lernens]]: Ein autonomer [[Autonome Agenten|Agent]] agiert durch Versuch und Irrtum (*Trial and Error*) in einer dynamischen Umwelt und lernt durch positive Belohnungen (*Rewards*) und Bestrafungen (*Penalties*), eine langfristig gewinnbringende Handlungsstrategie (*Policy*) zur Maximierung des Gesamterfolgs zu entwickeln.
 

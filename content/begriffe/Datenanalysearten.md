@@ -1,5 +1,5 @@
 ---
-title: "Die 4 Datenanalyse-Arten (Data Analytics Types)"
+title: "Die 4 Datenanalyse-Arten"
 tags: [data-science, ki-basics]
 aliases:
   - "data-analytics-types"
@@ -7,7 +7,7 @@ aliases:
   - "Datenanalyse-Arten"
 ---
 
-# Die 4 Datenanalyse-Arten (Data Analytics Types)
+# Die 4 Datenanalyse-Arten
 
 Ein vierstufiges Reifegradmodell der Datenanalyse, das beschreibt, wie Daten von einer reinen Rückschau auf vergangene Ereignisse bis hin zu automatisierten Handlungsempfehlungen für die Zukunft veredelt werden. Mit jeder Stufe steigt der Geschäftswert, aber auch die methodische Komplexität.
 

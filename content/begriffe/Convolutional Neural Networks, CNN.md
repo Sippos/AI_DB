@@ -1,5 +1,5 @@
 ---
-title: "Faltungsnetze (Convolutional Neural Networks, CNN)"
+title: "Convolutional Neural Networks (CNN)"
 tags: [deep-learning, computer-vision]
 aliases:
   - "convolutional-neural-networks"
@@ -8,7 +8,7 @@ aliases:
   - "Convolutional-Neuronale-Netze"
 ---
 
-# Convolutional Neural Networks, CNN
+# Convolutional Neural Networks (CNN)
 
 Eine spezialisierte Klasse tiefer neuronaler Netze für visuelle und räumliche Daten, die menschliche Sehfähigkeiten imitiert und das Fundament moderner Computer Vision für Bilderkennung, Objekterkennung und Bildkolorierung bildet.
 

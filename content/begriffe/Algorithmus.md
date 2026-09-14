@@ -1,5 +1,5 @@
 ---
-title: Algorithmus
+title: "Algorithmus"
 tags:
   - ki-basics
   - computer-science

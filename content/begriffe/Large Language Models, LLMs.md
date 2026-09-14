@@ -1,5 +1,5 @@
 ---
-title: "Große Sprachmodelle (Large Language Models, LLMs)"
+title: "Large Language Models (LLMs)"
 tags: [deep-learning, nlp]
 aliases:
   - "large-language-models"
@@ -9,7 +9,7 @@ aliases:
   - "Sprachmodelle"
 ---
 
-# Large Language Models, LLMs
+# Large Language Models (LLMs)
 
 Riesige neuronale Sprachmodelle auf [[Transformer Architektur|Transformer]]-Basis, die in monatelangen Trainingsphasen auf immensen Textkorpora (oft viele Terabytes, daher „Large“) trainiert wurden. Durch die Verbindung von [[Deep Learning|Deep Learning]] und [[natuerliche-sprachverarbeitung|NLP]] können sie menschliche Sprache mit verblüffender Gewandtheit verstehen, fortsetzen und erzeugen.
 

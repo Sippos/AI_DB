@@ -1,5 +1,5 @@
 ---
-title: "Reallabor / KI-Testumgebung (Regulatory Sandbox)"
+title: "Reallabor (KI-Testumgebung)"
 tags: [ai-safety]
 aliases:
   - "regulatory-sandbox"
@@ -7,7 +7,7 @@ aliases:
   - "Reallabor"
 ---
 
-# Reallabor / KI-Testumgebung (Regulatory Sandbox)
+# Reallabor (KI-Testumgebung)
 
 Ein kontrollierter, behördlich überwachter Testraum, in dem Unternehmen und Start-ups neuartige KI-Lösungen unter realen Bedingungen erproben können, bevor alle formellen Marktregeln greifen.
 

@@ -1,5 +1,5 @@
 ---
-title: "Drei Gesetze der Robotik (Three Laws of Robotics)"
+title: "Drei Gesetze der Robotik"
 tags: [ki-basics, ai-safety]
 aliases:
   - "three-laws-of-robotics"
@@ -7,7 +7,7 @@ aliases:
   - "Gesetze der Robotik"
 ---
 
-# Drei Gesetze der Robotik (Three Laws of Robotics)
+# Drei Gesetze der Robotik
 
 Ein 1942 vom Science-Fiction-Autor Isaac Asimov formulierter hierarchischer Moralkodex für autonome Maschinen, der frühe gedankliche Grundlagen für die moderne KI-Sicherheit schuf.
 

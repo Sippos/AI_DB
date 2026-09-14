@@ -1,5 +1,5 @@
 ---
-title: "Betriebssysteme & Anwendungssoftware (Operating Systems & Software)"
+title: "Betriebssysteme & Anwendungssoftware"
 tags: [software, computer-science]
 aliases:
   - "operating-systems"
@@ -7,7 +7,7 @@ aliases:
   - "Betriebssysteme"
 ---
 
-# Betriebssysteme & Anwendungssoftware (Operating Systems & Software)
+# Betriebssysteme & Anwendungssoftware
 
 Software umfasst alle nicht-physischen Programme und Handlungsanweisungen für Computer. Das Betriebssystem fungiert dabei als grundlegende Steuerungssoftware, die Hardware-Ressourcen zuteilt und die Ausführung aller Anwendungs- und KI-Programme überhaupt erst ermöglicht.
 

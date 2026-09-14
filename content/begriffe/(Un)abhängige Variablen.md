@@ -1,5 +1,5 @@
 ---
-title: Abhängige und unabhängige Variablen (Prädiktoren & Zielgrößen)
+title: "Abhängige und unabhängige Variablen"
 tags:
   - machine-learning
   - ki-basics

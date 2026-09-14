@@ -1,5 +1,5 @@
 ---
-title: "Computer-Hardware & Speicherhierarchie (Hardware Architecture)"
+title: "Computer-Hardware & Speicherhierarchie"
 tags: [hardware, computer-science]
 aliases:
   - "hardware-architecture"
@@ -7,7 +7,7 @@ aliases:
   - "Computer-Hardware"
 ---
 
-# Computer-Hardware & Speicherhierarchie (Hardware Architecture)
+# Computer-Hardware & Speicherhierarchie
 
 Die Gesamtheit aller physischen, greifbaren Komponenten eines Rechnersystems, die gemeinsam Daten erfassen, verarbeiten, kurz- und langfristig speichern und als Ergebnisse ausgeben.
 

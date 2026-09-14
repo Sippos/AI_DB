@@ -1,12 +1,12 @@
 ---
-title: "Natürliche Sprachverarbeitung (Natural Language Processing, NLP)"
+title: "Natürliche Sprachverarbeitung (NLP)"
 tags: [nlp, ki-basics]
 aliases:
   - "natural-language-processing"
   - "Natural Language Processing, NLP"
 ---
 
-# Natürliche Sprachverarbeitung (Natural Language Processing, NLP)
+# Natürliche Sprachverarbeitung (NLP)
 
 Ein Kernbereich der Künstlichen Intelligenz und Computerlinguistik, der darauf abzielt, Maschinen zu befähigen, geschriebene und gesprochene menschliche (natürliche) Sprache nahtlos zu erfassen, zu analysieren, zu verstehen und selbstständig zu erzeugen.
 

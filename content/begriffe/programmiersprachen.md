@@ -1,5 +1,5 @@
 ---
-title: "Programmiersprachen & Maschinencode (Programming Languages & Machine Code)"
+title: "Programmiersprachen & Maschinencode"
 tags: [software, computer-science]
 aliases:
   - "programming-languages"
@@ -7,7 +7,7 @@ aliases:
   - "Programmiersprachen"
 ---
 
-# Programmiersprachen & Maschinencode (Programming Languages & Machine Code)
+# Programmiersprachen & Maschinencode
 
 Formale, für Menschen verständliche Sprachen zur Formulierung von Algorithmen und Befehlen (Quellcode), die über Übersetzer (Compiler oder Interpreter) in maschinenausführbaren Binärcode (Maschinensprache aus 0 und 1) umgewandelt werden.
 

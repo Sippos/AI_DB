@@ -1,5 +1,5 @@
 ---
-title: "Künstliche Superintelligenz (Artificial Superintelligence, ASI)"
+title: "Künstliche Superintelligenz"
 tags: [ki-basics, ai-safety]
 aliases:
   - "artificial-super-intelligence"
@@ -8,7 +8,7 @@ aliases:
   - "Superintelligenz"
 ---
 
-# Künstliche Superintelligenz (Artificial Superintelligence, ASI)
+# Künstliche Superintelligenz
 
 Eine hypothetische Form künstlicher Intelligenz, die nicht nur mit dem Menschen gleichzieht ([[Starke KI|AGI]]), sondern die kollektive kognitive Leistungsfähigkeit aller menschlichen Gehirne in praktisch sämtlichen Disziplinen – von wissenschaftlicher Kreativität über strategische Weisheit bis zu sozialer Kompetenz – um Größenordnungen übertrifft.
 
