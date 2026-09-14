@@ -1,17 +1,10 @@
-# Quartz v4
+# AI_DB - KI-Wissensdatenbank
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Eine interaktive Wissensdatenbank für zentrale Begriffe und Konzepte der Künstlichen Intelligenz, des Maschinellen Lernens und Deep Learnings.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+Erstellt mit [Quartz 4](https://quartz.jzhao.xyz/) und Markdown (Obsidian).
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## Live-Version
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Die Wissensdatenbank ist live verfügbar unter:
+https://sippos.github.io/AI_DB/
