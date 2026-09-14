@@ -112,8 +112,8 @@ title: KI-Wissensdatenbank
 - [[begriffe/Transformer Architektur|Transformer-Architektur]]
 - [[begriffe/Turing-Test|Turing-Test]]
 
-### Ü
-- [[begriffe/Supervised Learning|Überwachtes Lernen]]
-
 ### U
 - [[begriffe/Unsupervised Learning|Unüberwachtes Lernen]]
+
+### Ü
+- [[begriffe/Supervised Learning|Überwachtes Lernen]]
